@@ -10,8 +10,8 @@ This project aims to develop a product classification system for grocery store s
 
 ## 🎯 Project Objectives
 
-• **Single Product Classification**: Implement a neural network model that recognizes individual products based on images taken from store shelves.
-• **Optimization through Fine-Tuning**: Enhance the performance of pre-trained models like ResNet-18 to adapt them specifically for grocery products.
+- **Single Product Classification**: Implement a neural network model that recognizes individual products based on images taken from store shelves.
+- **Optimization through Fine-Tuning**: Enhance the performance of pre-trained models like ResNet-18 to adapt them specifically for grocery products.
 
 ## 🖼️ Image Preprocessing
 
