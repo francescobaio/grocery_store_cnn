@@ -4,9 +4,7 @@
 
 ## 📋 Project Overview
 
-This project aims to develop a product classification system for grocery store shelves using convolutional neural networks. Such a system can be beneficial in practical applications, including:
-
-• **Customer Assistance**: Helping customers, including those with visual impairments, quickly locate specific products on shelves.
+This project aims to develop a product classification system for grocery store shelves using convolutional neural networks. Such a system can be beneficial in practical applications, including customer assistance helping customers, including those with visual impairments, quickly locate specific products on shelves.
 
 ## 🎯 Project Objectives
 
